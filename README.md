@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue" alt=""/>
+
 ## Hi there 👋
 
 <!--
