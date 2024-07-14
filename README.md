@@ -125,11 +125,17 @@ Here are some ideas to get you started:
 ---
 
 ### 🌐 Contact me
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/uzbekcoder2022/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/@uzbek_coders_2023">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div
+  <a href="https://uzbekdevelopers.uz">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=statuspage&logoColor=white" alt="Website Status Badge"/>  
+  </a>
+  <a href="https://t.me/uzbek_coder_2022">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
+  </a>
+</div>
