@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 ---
 
 ### :writing_hand: About me :
--Hi, I'm Khusanboy Sobirjonov, a AI developer.
--Student of Andijan State University.
--Faculty of Information Technology and Computer Engineering.
--I'm studying Computer Engineering.
--I'm currently a third-year student. 
--I enjoy tackling algorithmic problems and devising solutions for them.
+- Hi, I'm Khusanboy Sobirjonov, a AI developer.
+- Student of Andijan State University.
+- Faculty of Information Technology and Computer Engineering.
+- I'm studying Computer Engineering.
+- I'm currently a third-year student. 
+- I enjoy tackling algorithmic problems and devising solutions for them.
