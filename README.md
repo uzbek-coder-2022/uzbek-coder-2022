@@ -1,4 +1,4 @@
-![Country](https://img.shields.io/badge/Support-Uzbekistan-gree?style=flat&labelColor=blue)
+![Country](https://img.shields.io/badge/Support-Uzbekistan-blue?style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/uzbek-coder-2022?style=flat-square&label=Stars&logo=github)
 ![Followers](https://img.shields.io/github/followers/uzbek-coder-2022?style=flat-square&label=Followers&logo=github)
