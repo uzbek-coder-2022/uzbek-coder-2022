@@ -112,7 +112,8 @@ Here are some ideas to get you started:
     </a>
 </div>
 <div align=center>
-    ![Trophies](https://github-profile-trophy.vercel.app/?username=uzbek-coder-2022&theme=radical)
+  
+   ![Trophies](https://github-profile-trophy.vercel.app/?username=uzbek-coder-2022&theme=radical)
 </div>
 
 
