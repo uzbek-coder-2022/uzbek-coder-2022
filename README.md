@@ -1,6 +1,8 @@
-<img src="https://img.shields.io/badge/Support-Uzbekistan-gree?style=flat&labelColor=blue" alt="Uzbekistan" align = "center" />
-<img src="https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue" alt=""/>
-
+![Country](https://img.shields.io/badge/Support-Uzbekistan-gree?style=flat&labelColor=blue)
+![Profile views](https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue)
+![Total Stars](https://img.shields.io/github/stars/uzbek-coder-2022?style=flat-square&label=Stars&logo=github)
+![Followers](https://img.shields.io/github/followers/uzbek-coder-2022?style=flat-square&label=Followers&logo=github)
+![Total Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&style=flat-square&query=public_repos&url=https://api.github.com/users/uzbek-coder-2022)
 
 ## Hi there 👋
 
