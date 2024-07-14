@@ -1,4 +1,7 @@
+<img src="https://img.shields.io/badge/Support-Uzbekistan-gree?style=flat&labelColor=blue" alt="Uzbekistan" align = "center" />
+<br>
 <img src="https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue" alt=""/>
+
 
 ## Hi there 👋
 
