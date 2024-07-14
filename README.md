@@ -114,12 +114,12 @@ Here are some ideas to get you started:
 ---
 
 ### :writing_hand: About me :
-- Hi, I'm Khusanboy Sobirjonov, a AI developer.
-- Student of Andijan State University.
-- Faculty of Information Technology and Computer Engineering.
-- I'm studying Computer Engineering.
-- I'm currently a fourth-year student. 
-- I enjoy tackling algorithmic problems and devising solutions for them.
+- 👋 Hi, I'm Khusanboy Sobirjonov, a AI developer.
+- 🎓 Student of Andijan State University.
+- 🏫 Faculty of Information Technology and Computer Engineering.
+- 👨‍💻 I'm studying Computer Engineering.
+- 📈 I'm currently a fourth-year student. 
+- 🤓 I enjoy tackling algorithmic problems and devising solutions for them.
 
 
 ---
@@ -139,3 +139,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
   </a>
 </div>
+
+
+---
+
+<h3 align="center">
+  <a href="https://github.com/uzbek-coder-2022?tab=repositories" title="Show Repositories">Repositories Page ⏩</a>
+</h3>
