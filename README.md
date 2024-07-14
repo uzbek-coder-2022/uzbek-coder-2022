@@ -144,5 +144,5 @@ Here are some ideas to get you started:
 ---
 
 <h3 align="center">
-  <a href="https://github.com/uzbek-coder-2022?tab=repositories" title="Show Repositories">Repositories Page ⏩</a>
+  <a href="https://github.com/uzbek-coder-2022?tab=repositories" title="Show Repositories">Repositories Section ⏩</a>
 </h3>
