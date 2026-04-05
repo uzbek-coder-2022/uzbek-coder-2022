@@ -1,130 +1,155 @@
-<div align="center">
+![Country](https://img.shields.io/badge/Support-Uzbekistan-blue?style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=blue)
+![Total Stars](https://img.shields.io/github/stars/uzbek-coder-2022?style=flat-square&label=Stars&logo=github)
+![Followers](https://img.shields.io/github/followers/uzbek-coder-2022?style=flat-square&label=Followers&logo=github)
+![Total Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&style=flat-square&query=public_repos&url=https://api.github.com/users/uzbek-coder-2022)
 
-![Support Uzbekistan](https://img.shields.io/badge/🇺🇿_Support-Uzbekistan-1C6B48?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=uzbek-coder-2022&style=flat-square&color=0d9488)
-![Total Stars](https://img.shields.io/github/stars/uzbek-coder-2022?style=flat-square&label=⭐_Stars&logo=github&color=0d9488)
-![Followers](https://img.shields.io/github/followers/uzbek-coder-2022?style=flat-square&label=👥_Followers&logo=github&color=0d9488)
+## Hi there 👋
 
+<!--
+**uzbek-coder-2022/uzbek-coder-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bjxU4SlQTQSmK3Z-UOk0Bg.gif" width="450"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khusanboy+👋;Backend+Developer+(Yii2+%2F+PHP);Building+reliable+web+solutions;Open+to+collaboration!" alt="Typing SVG" />
-</div>
 
 ---
 
-## 👨‍💻 About Me
+### :hammer_and_wrench: My Tech Stacks :
 
-```php
-<?php
-
-class Khusanboy extends Developer
-{
-    public string $name     = "Khusanboy Sobirjonov";
-    public string $role     = "Backend Developer";
-    public string $focus    = "Yii2 / PHP";
-    public string $location = "Andijan, Uzbekistan 🇺🇿";
-
-    public array $currentlyDoing = [
-        "Building scalable backend systems with Yii2",
-        "Solving algorithmic challenges",
-        "Contributing to open-source projects",
-    ];
-
-    public array $strengths = [
-        "Data Structures & Algorithms",
-        "Backend Architecture",
-        "Database Design (MySQL, PostgreSQL)",
-        "RESTful API Development",
-        "Linux Server Management",
-    ];
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🚀 Frameworks & Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii2" alt="Yii2" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
-</div>
 
-### 🗄️ Databases & DevOps
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
-</div>
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-0078D4?style=for-the-badge&logo=pandas&logoColor=white">
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=uzbek-coder-2022&show_icons=true&theme=react&border_color=0d9488&hide_border=true&title_color=0d9488&icon_color=0d9488" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=uzbek-coder-2022&theme=react&border=0d9488&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
-  </a>
-</div>
-
-<br><br><br><br><br><br><br><br><br>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&hide=c%23,css,html&title_color=0d9488&text_color=ffffff&icon_color=0d9488&bg_color=20232a&langs_count=8&layout=compact&border_color=0d9488&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
   <br>
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=uzbek-coder-2022&theme=onestar&no-frame=true&column=7)
-</div>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">  
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Jupyter-F38020?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-1f425f?style=for-the-badge&logo=latex&logoColor=white">
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  
+<p>
+-->
+
+
 
 ---
 
-## 🌐 Contact Me
+### :fire: My Stats :
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uzbek-coder-2022&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=uzbek-coder-2022&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=uzbek-coder-2022&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+</div>
+<br><br><br><br><br><br><br><br><br>
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+<div align=center>
+<br><br>
+  
+   ![Trophies](https://github-profile-trophy.vercel.app/?username=uzbek-coder-2022&theme=radical)
+</div>
+
+
+---
+
+### :writing_hand: About me :
+- 👋 Hi, I'm Khusanboy Sobirjonov, a AI developer.
+- 🎓 Student of Andijan State University.
+- 🏫 Faculty of Information Technology and Computer Engineering.
+- 👨‍💻 I'm studying Computer Engineering.
+- 📈 I'm currently a fourth-year student. 
+- 🤓 I enjoy tackling algorithmic problems and devising solutions for them.
+
+
+---
+
+### 🌐 Contact me :
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/uzbekcoder2022/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://t.me/uzbek_coder_2022">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://youtube.com/@uzbek_coders_2023">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="https://uzbekdevelopers.uz">
-    <img src="https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=statuspage&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=statuspage&logoColor=white" alt="Website Status Badge"/>  
+  </a>
+  <a href="https://t.me/uzbek_coder_2022">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
   </a>
 </div>
+
 
 ---
 
-<div align="center">
-  <i>💡 "Clean code, solid architecture, real results."</i>
-  <br><br>
-  <a href="https://github.com/uzbek-coder-2022?tab=repositories">
-    <img src="https://img.shields.io/badge/⏩_View_All_Repositories-20232a?style=for-the-badge&logo=github&logoColor=0d9488"/>
-  </a>
-</div>
+<h3 align="center">
+  <a href="https://github.com/uzbek-coder-2022?tab=repositories" title="Show Repositories">Repositories Section ⏩</a>
+</h3>
