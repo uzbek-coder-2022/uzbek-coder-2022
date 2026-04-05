@@ -84,9 +84,9 @@ class Khusanboy extends Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=uzbek-coder-2022&show_icons=true&theme=react&border_color=0d9488&hide_border=true&title_color=0d9488&icon_color=0d9488" />
-  </a>
+  </a> -->
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img align="left" width="390" src="https://streak-stats.demolab.com/?user=uzbek-coder-2022&theme=react&border=0d9488&hide_border=true&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
   </a>
@@ -99,6 +99,7 @@ class Khusanboy extends Developer
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&hide=c%23,css,html&title_color=0d9488&text_color=ffffff&icon_color=0d9488&bg_color=20232a&langs_count=8&layout=compact&border_color=0d9488&hide_border=true" />
   </a>
 </div>
+
 ---
 
 ## 🌐 Contact Me
