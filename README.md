@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bjxU4SlQTQSmK3Z-UOk0Bg.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@ class Khusanboy extends Developer
     public string $name     = "Khusanboy Sobirjonov";
     public string $role     = "Backend Developer";
     public string $focus    = "Yii2 / PHP";
-    public string $location = "Andijan, Uzbekistan 🇺🇿";
+    public string $location = "Fergana, Uzbekistan 🇺🇿";
 
     public array $currentlyDoing = [
         "Building scalable backend systems with Yii2",
