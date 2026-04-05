@@ -92,13 +92,13 @@ class Khusanboy extends Developer
   </a>
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br><br><br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&hide=c%23,css,html&title_color=0d9488&text_color=ffffff&icon_color=0d9488&bg_color=20232a&langs_count=8&layout=compact&border_color=0d9488&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 ---
 
