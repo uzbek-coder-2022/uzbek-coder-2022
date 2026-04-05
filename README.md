@@ -99,13 +99,6 @@ class Khusanboy extends Developer
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbek-coder-2022&hide=c%23,css,html&title_color=0d9488&text_color=ffffff&icon_color=0d9488&bg_color=20232a&langs_count=8&layout=compact&border_color=0d9488&hide_border=true" />
   </a>
 </div>
-
-<div align="center">
-  <br>
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=uzbek-coder-2022&theme=darkhub&no-frame=true&column=7&margin-w=10)
-</div>
-
 ---
 
 ## 🌐 Contact Me
